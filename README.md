@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+chl›Hi there, I'm Ivan</h1>
+<h3>Full Stack Developer from New York</h3>
+</div>
 
 <!--
 **ItSoda/ItSoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
