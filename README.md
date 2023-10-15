@@ -1,6 +1,6 @@
 <div id="header" align="center">
-chl›Hi there, I'm Ivan</h1>
-<h3>Full Stack Developer from New York</h3>
+chl›Hi there, I'm Nikita</h1>
+<h3>Backend Developer from Russia</h3>
 </div>
 
 <!--
