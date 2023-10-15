@@ -32,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title='linux' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title='bash' width=40 height=40 />&nbsp; 
 
-### My stat
+### My statistics
 <div id="container" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <div id="center-block">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItSoda&theme=github_dark" />
