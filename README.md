@@ -1,5 +1,5 @@
 <div id="header" align="center">
-chl›Hi there, I'm Nikita</h1>
+<h1›Hi there, I'm Nikita</h1>
 <h3>Backend Developer from Russia</h3>
 </div>
 
