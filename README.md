@@ -32,16 +32,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title='linux' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title='bash' width=40 height=40 />&nbsp; 
 
-### My statistics
+### My stat
 <div id="container" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <div id="center-block">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItSoda&theme=github_dark" />
     </div>
     <div id="lower-blocks" style="display: flex; justify-content: space-between;">
-        <div id="left-block">
+        <div id="left-block" aligh="left">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItSoda&theme=github_dark" />
         </div>
-        <div id="right-block">
+        <div id="right-block"  aligh="right">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItSoda&theme=github_dark" />
         </div>
     </div>
