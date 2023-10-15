@@ -18,7 +18,7 @@
 
 ### About me 
 - ⚡ I'm currently learning Web2, Web3
-- 💬 Reach me by HeadHunter(https://omsk.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header), gmail(nikitashchegilskiy@gmail.com)
+- 💬 Reach me by [HeadHunter](https://omsk.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header) and [gmail](nikitashchegilskiy@gmail.com)
 - 🌎 I speak English **A2**
 
 ### Languages and tools
@@ -38,9 +38,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItSoda&theme=github_dark" />
     </div>
     <div id="lower-blocks" style="display: flex; justify-content: space-between;">
-        <div id="left-block" aligh="left">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItSoda&theme=github_dark" />
-        </div>
         <div id="right-block"  aligh="right">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItSoda&theme=github_dark" />
         </div>
