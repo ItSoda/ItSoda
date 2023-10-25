@@ -18,7 +18,7 @@
 
 ### About me 
 - ⚡ I'm currently learning Web2, Web3
-- 💬 Reach me by [HeadHunter](https://omsk.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header) | [Gmail](nikitashchegilskiy@gmail.com) | [LeetCode](https://leetcode.com/ItSodaPogos/)
+- 💬 Reach me by [HeadHunter](https://omsk.hh.ru/applicant/resumes?hhtmFrom=settings&hhtmFromLabel=header) | [Gmail](nikitashchegilskiy@gmail.com) | [LeetCode](https://leetcode.com/ItSodaPogos/) | [CodeWars](https://www.codewars.com/users/ItSoda)
 - 🌎 I speak English **A2**
 
 ### Languages and tools
