@@ -22,6 +22,7 @@
 - 🌎 I speak English **A2**
 
 ### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title='vscode' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='python' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title='django' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  title='postgresql' width=40 height=40 />&nbsp;
@@ -30,7 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  title='redis' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title='nginx' width=40 height=40 />&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title='linux' width=40 height=40 />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title='bash' width=40 height=40 />&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title='bash' width=40 height=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title='docker' width=40 height=40 />&nbsp;
 
 ### My statistics
 <div id="container" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
