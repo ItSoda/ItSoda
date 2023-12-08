@@ -35,6 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title='linux' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title='bash' width=40 height=40 />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" title='filezila' width=40 height=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title='docker' width=40 height=40 />&nbsp;
+
 
 ### My statistics
 <div id="container" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
